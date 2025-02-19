@@ -1,6 +1,6 @@
 # awesome-ai-naive-application
 ## AI Writing
-- [PerchanceStory](https://perchancestory.com/)
+### [PerchanceStory](https://perchancestory.com/)
 Perchance Story is a free, non-registration online interactive story creation platform designed to provide users with a fun and creative story experience space. The platform's core feature is its AI-based interactive story generator, which generates ever-changing story endings with endless possibilities based on simple user-provided input.
 
 ** Core functions: **
